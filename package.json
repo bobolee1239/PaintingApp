@@ -1,0 +1,26 @@
+{
+  "name": "paiting_app",
+  "version": "1.0.0",
+  "description": "my first paiting app",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -p",
+    "watch": "webpack -w -d"
+  },
+  "author": "Tsung-Han Lee",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.x",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^2.1.1",
+    "eslint": "^5.15.3",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
+  }
+}
