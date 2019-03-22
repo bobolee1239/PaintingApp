@@ -1,6 +1,10 @@
 # My Canvas App
 __AUTHOR__: Tsung-Han Lee
 
+## DEMO
+<kbd>
+    <img src="assets/demo.gif"/>
+</kbd>
 
 ---
 ### Reference
